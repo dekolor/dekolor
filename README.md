@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Stefan! 👋
 
-<!--
-**dekolor/dekolor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Developer working on exciting web development projects using PHP, Laravel, React, and Next.js. I’m constantly learning and experimenting with new technologies to sharpen my skills and solve real-world problems.
 
-Here are some ideas to get you started:
+## 🌱 What I'm Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **PHP & Laravel**: Building dynamic, scalable web applications.
+- **React & Next.js**: Exploring modern frontend frameworks while deploying on **AWS** and **Vercel**.
+- **Docker**: Using Docker to containerize and simplify deployment processes.
+
+## 🔧 Technologies I Use
+
+- **Languages**: PHP, JavaScript, HTML, CSS
+- **Frameworks**: Laravel, React, Next.js
+- **Databases**: MySQL
+- **Tools**: Docker, Git
+- **Cloud**: AWS, Vercel
+
+## 📂 Some Projects I've Built
+
+- **[Trafficmap](https://github.com/dekolor/trafficmap)**: An app that shows daily traffic map screenshots, built with React, Next.js, AWS, and Vercel.
+- **[MailDB](https://github.com/dekolor/maildb)**: A newsletter manager app built with Laravel.
+- **[Drive](https://github.com/dekolor/drive)**: A Google Drive-like app for storing files, built with React and Next.js.
+- **[AWB Tracker](https://github.com/dekolor/awb_tracker)**: A postal tracking app showing each step of a package, built with Laravel.

@@ -10,15 +10,15 @@ I'm a passionate Full Stack Developer working on exciting web development projec
 
 ## 🔧 Technologies I Use
 
-- **Languages**: PHP, JavaScript, HTML, CSS
-- **Frameworks**: Laravel, React, Next.js
+- **Languages**: PHP, TypeScript, JavaScript, HTML, CSS
+- **Frameworks and libraries**: Laravel, React, Next.js
 - **Databases**: MySQL
 - **Tools**: Docker, Git
 - **Cloud**: AWS, Vercel
 
 ## 📂 Some Projects I've Built
 
+- **[MovieTime](https://github.com/dekolor/filme)**: A public database of movies currently running in cinemas and the list of show times, build with Next.js, Prisma and tRPC. Running on Vercel with a Postgres DB.
 - **[Trafficmap](https://github.com/dekolor/trafficmap)**: An app that shows daily traffic map screenshots, built with React, Next.js, AWS, and Vercel.
-- **[MailDB](https://github.com/dekolor/maildb)**: A newsletter manager app built with Laravel.
 - **[Drive](https://github.com/dekolor/drive)**: A Google Drive-like app for storing files, built with React and Next.js.
 - **[AWB Tracker](https://github.com/dekolor/awb_tracker)**: A postal tracking app showing each step of a package, built with Laravel.
